@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"recip",
+				"recipe_id"
+			],
+			[
+				"ar",
+				"array_difference"
+			],
+			[
+				"array",
+				"array_diff"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"o",
+				"origilal_ingredients"
+			],
+			[
+				"ta",
+				"tablica03"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"t",
+				"tablica01"
+			],
+			[
+				"in",
+				"ingredient_list_array"
+			],
+			[
+				"s",
+				"stmt"
+			],
+			[
+				"data",
+				"dataToUpdate"
+			],
+			[
+				"inde",
+				"index_wybranego"
+			],
+			[
+				"n",
+				"ngDialog-theme-default.css"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"ingredient_",
+				"ingredient_id"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getBook"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"wr",
+				"writeBookFactory"
+			],
+			[
+				"b",
+				"blogPosts"
+			],
+			[
+				"_",
+				"_instance"
+			],
+			[
+				"respo",
+				"responsePromise"
+			],
+			[
+				"kuk",
+				"kukForm"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/git_warsztat/worshop/git-workshop"
+	],
+	"file_history":
+	[
+		"/C/Users/Bart/AppData/Roaming/Adobe/InDesign/Version 4.0/Scripting Support/4.0/BasicSwapItems.js",
+		"/G/Prace/Cernit/materialy/dodatkowe.html",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/consolelog.sublime-snippet",
+		"/C/xampp/htdocs/kukszuk/pureAngular/backend/playground/play.php",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/.gitignore",
+		"/C/xampp/htdocs/kukszuk/pureAngular/insert.php",
+		"/C/xampp/htdocs/kukszuk/pureAngular/pages/add_recipes.html",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/ngDialog/css/ngDialog-theme-default.css",
+		"/C/xampp/htdocs/kukszuk/pureAngular/mysqli_singleton.php",
+		"/C/xampp/htdocs/kukszuk/pureAngular/pages/exampledialog.html",
+		"/C/xampp/htdocs/kukszuk/pureAngular/pages/home.html",
+		"/C/xampp/htdocs/kukszuk/pureAngular/index.html",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/ngDialog/package.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/app_copy.js",
+		"/C/xampp/htdocs/playground/silex/composer.json",
+		"/C/xampp/htdocs/playground/yii01/copmoser.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/pages/add_recipes_temp.html",
+		"/C/xampp/htdocs/playground/silex/web/index.php",
+		"/C/xampp/htdocs/kukszuk/pureAngular/get_recipes.php",
+		"/C/Program Files/CEWE/CEWE Fotoswiat/Resources/help/hilfe_und_tour/index.html",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/bootstrap/less/pager.less",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/angular/package.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/singleton_pdo.php",
+		"/C/xampp/htdocs/playground/bower/test01/bower_components/angular/bower.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/singleton.php",
+		"/G/Prace/Aliphos/mail/JoannaKpodpispoczty.html",
+		"/G/System/kod_przyklady/php/formularze/phpform/form/form.html",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+		"/C/xampp/htdocs/naukaPhp/restler/composer.json",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower_components/angular/package.json",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower.json",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower_components/angular/bower.json",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower_components/angular/angular.js",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower_components/angular/README.md",
+		"/C/xampp/htdocs/playground/angular/60-ish_minutes/bower_components/angular/.bower.json",
+		"/C/xampp/htdocs/playground/bower.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/angular/bower_components/angular-route/.bower.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/bower_components/angular/bower.json",
+		"/C/xampp/htdocs/kukszuk/pureAngular/pages/heme.html",
+		"/C/xampp/htdocs/CernitFb/cernitfb.html",
+		"/C/xampp/htdocs/CernitFb/index.html",
+		"/C/xampp/htdocs/kukszuk/dev/angular-seed/app/index-async.html",
+		"//KOMPUTER/System/Adobe/Illustrator/How To Install.html",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DSC06492.jpg\"",
+			"\"",
+			"index_wybranego",
+			"checked",
+			"array_to",
+			"$ingredient_list_array",
+			"_ext",
+			"));\n",
+			"var_dump",
+			"fore",
+			"lastInsertId",
+			"getINgredientsList",
+			"rec_id",
+			"$q",
+			"recipes",
+			"recipeName",
+			"getRecipes",
+			"php?base=",
+			"postdata",
+			"index_wybranego",
+			"getRecipes",
+			"index_wybranego",
+			"containe0r",
+			"div",
+			"// ",
+			"test dialog",
+			"'",
+			"DESC",
+			"id",
+			"getIngredientId",
+			":",
+			"ing_list_array",
+			" $",
+			"$ingredient_id",
+			"ingredient_id",
+			"addIngredient",
+			"$this->pdo",
+			"$this->request",
+			"extracted_ingredient",
+			"check_books",
+			"kukForm",
+			"'",
+			"author",
+			"title",
+			"book_author",
+			"chosenname",
+			"195",
+			"recipeName",
+			"chosenname",
+			"'",
+			"getRecipes",
+			"wynik",
+			"responseData",
+			"receivedRecipes",
+			"save",
+			"h3{\n	font-size: 18px;\n}\n",
+			"h3",
+			"BookFactory",
+			"library",
+			"writeBookFactory",
+			"'",
+			"myForm",
+			"WHERE",
+			"ig.",
+			"recipe_id",
+			"season",
+			"\"",
+			"nazwa",
+			">",
+			"din",
+			"myApp",
+			"controller",
+			"ng-controller",
+			"			",
+			"0070c0",
+			"<p>",
+			"<p>\n",
+			"P",
+			"p",
+			"<p>",
+			"style=\"overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 86.00px; height: 26.00px;\"",
+			" class=\"c0\"",
+			"<a name=\"h.gjdgxs\"></a><span class=\"c2\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kukSzuk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "workshop.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pagesad",
+				"pages\\add_recipes.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\playground\\grunter\\grunt.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
